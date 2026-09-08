@@ -87,7 +87,7 @@ function deleteMovie(ele){
 
     Swal .fire({
         title:'Data deleted successfully !!!',
-        icon:'error',
+        icon:'success',
         timer:3000
     });
 }
