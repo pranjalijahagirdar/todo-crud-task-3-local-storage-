@@ -1,0 +1,23 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+h1{
+    background-color:orchid;
+    color:white;
+    box-shadow:2px 2px 2px grey;
+    text-align:center;
+    font-weight:bold;
+}
+
+.cardMovie{
+    box-shadow:3px 3px 3px grey;
+
+}
+
+.movieCard{
+    box-shadow:3px 3px 3px grey;
+    text-align:center;
+}
